@@ -1,4 +1,4 @@
-include ':mortar'
+include ':mortar', ':mortar-drawer-sample'
 include ':mortar-dagger1'
 include ':mortar-hellodagger2'
 include ':mortar-helloworld'
